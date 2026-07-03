@@ -329,6 +329,18 @@ Potential improvements for future versions include:
 
 ---
 
+# Power BI Report
+
+The complete Power BI report (.pbix) is available in the **Dashboard** folder of this repository.
+
+Due to Power BI Service tenant restrictions, **Publish to Web** is currently unavailable for this account.
+
+To explore the complete interactive report:
+
+1. Download the `.pbix` file from the **Dashboard** folder.
+2. Open it using **Microsoft Power BI Desktop**.
+3. Interact with all dashboards, slicers, filters, and visualizations locally.
+
 # Author
 
 **Saif Anwar**
@@ -436,7 +448,10 @@ Future enhancements planned for this project include:
 
 **Saif Anwar**
 
-Email - saif.anwar1618@gmail.com
+Email: saif.anwar1618@gmail.com
+
+GitHub:
+https://github.com/Saifanw
 
 LinkedIn - https://www.linkedin.com/in/saif-anwar-680357376/
 
